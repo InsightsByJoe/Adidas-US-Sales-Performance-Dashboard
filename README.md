@@ -3,7 +3,7 @@
 ## **Project Overview**
 This project focuses on analyzing Adidas US sales data to uncover insights on performance across various dimensions such as products, regions, and sales methods. Using Microsoft Excel, a dashboard was created to visualize key metrics, trends, and sales distributions. The primary goal was to present a comprehensive overview of the sales performance while providing actionable insights.
 
-![Screenshot 2024-10-12 125420](https://github.com/user-attachments/assets/c2c2e6b1-d92b-4e53-a149-53532bfb662a)
+![Adidas Screenshort](https://github.com/user-attachments/assets/1d3a85eb-a839-4a0a-b7f6-2f87250de3e2)
 
 
 ## **Data Sources**
